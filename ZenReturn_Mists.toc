@@ -1,0 +1,11 @@
+## Interface: 50500
+## Title: Zen|T775462:16|t Return: Where?|T134414:16|t
+## Notes: Adds your temporary bind location to Zen Pilgrimage: Return spell and buff tooltip.
+## IconTexture: 775462
+## Author: Roadblock
+## Version: 1.0
+## SavedVariablesPerCharacter: ZenReturn_DBPC
+## SavedVariables: ZenReturn_DB
+
+core.lua
+
